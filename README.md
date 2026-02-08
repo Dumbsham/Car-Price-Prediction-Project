@@ -18,7 +18,6 @@ This project uses machine learning to predict the selling price of used Ford car
 - **📊 Multiple Insights**: Price estimates, depreciation analysis, and value metrics
 - **💾 Export Results**: Download predictions as CSV reports
 - **⚡ Real-time Processing**: Instant predictions with optimized model loading
-- **🎨 Two UI Options**: Choose between enhanced or simple interface
 
 ## 🛠️ Tech Stack
 
