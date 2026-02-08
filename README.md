@@ -168,8 +168,6 @@ To retrain the model with new data:
 
 ## 🎨 App Versions
 
-This project includes two versions of the web application:
-
 ### Enhanced Version (car_app.py)
 - Professional UI with custom CSS
 - Sidebar with information and tips
@@ -177,13 +175,7 @@ This project includes two versions of the web application:
 - CSV download functionality
 - Form-based input with validation
 
-### Simple Version (car_app_simple.py)
-- Clean, minimalist interface
-- Faster loading time
-- Essential features only
-- Perfect for quick testing
 
-See `APP_VERSIONS.md` for detailed comparison and customization guide.
 
 ## 📦 Model Files
 
