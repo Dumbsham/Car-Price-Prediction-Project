@@ -43,10 +43,7 @@ CAR_PRICE_PREDICTION/
 ├── ford.csv                     # Ford car dataset
 ├── requirements.txt             # Project dependencies
 ├── .gitignore                   # Git ignore file
-├── README.md                    # Project documentation
-├── APP_VERSIONS.md              # Documentation for app versions
-├── FOLDER_STRUCTURE.md          # Detailed project structure
-└── GITHUB_SETUP.md              # GitHub setup guide
+|__ README.md                    # Project documentation
 ```
 
 ## 🚀 Getting Started
